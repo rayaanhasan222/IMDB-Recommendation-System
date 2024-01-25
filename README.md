@@ -1,2 +1,4 @@
 # IMDB-Recommendation-System
-Pandas Project
+Pandas Project 
+Used nltk and regex to process, merge, and tokenize data. 
+Used cosine similarity for recommendation system and give user recommendations. 
